@@ -59,12 +59,3 @@ Performance was stable and consistent across multiple runs, confirming the robus
 - **Clear visual performance tracking** through real-time loss and accuracy curves.  
 
 ---
-
-## ( Future Enhancements )
-Potential next steps to make the system even more advanced:
-- Introduce **Data Augmentation** for better generalization.
-- Apply **Transfer Learning** using pretrained models like MobileNetV2 or EfficientNet.
-- Integrate **real-time face mask detection** via webcam or mobile camera.
-- Deploy the trained model using **TensorFlow Lite** or **Flask API** for production use.
-
----
